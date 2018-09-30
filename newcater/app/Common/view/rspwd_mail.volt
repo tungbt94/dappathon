@@ -1,0 +1,1 @@
+Mã khôi phục mật khẩu của bạn: {{ code }}

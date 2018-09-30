@@ -1,0 +1,45 @@
+.mw-banner {
+    width: 100%;
+}
+.panel-default{
+    border-bottom: solid 1px black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+.panel-title{
+    font-size: 20px;
+}
+.panel-heading{
+    padding: 50px 0px;
+}
+.panel-group{
+    margin-bottom: 0px;
+}
+.list-item{
+    padding: 20px 100px;
+    background: #fff;
+}
+.panel-default>.panel-heading{
+    color: #333;
+    background-color: #ffffff;
+    border-color: #fff;
+}
+.faq .title{
+    padding: 30px;
+    margin-top: 30px;
+    color: #575757;
+}
+.faq .panel-title a{
+    color: #858484;
+}
+.faq p{
+    font-family: CaeciliaLTPro-45Light;
+    color: #716b70;
+    letter-spacing: .03em;
+    line-height: 1.75;
+    box-shadow: 0 0 black;
+    font-weight: 400;
+    font-size: 18px;
+}

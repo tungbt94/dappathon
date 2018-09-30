@@ -1,0 +1,102 @@
+.header-detail .avarta{
+    width: 100px;
+    display: inline-block;
+}
+.title-avarta {
+    display: inline-block;
+}
+.header-detail .avarta img{
+    width: 100%;
+}
+.header-detail .description{
+    font-size: 18px;
+}
+.header-detail{
+    margin-bottom: 40px;
+}
+.content-detail .image-detail img{
+    width: 100%;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.title-item {
+    font-size: 26px;
+}
+.content-detail .title-item.price{
+    color: #b64a9b;
+}
+.content-detail  span{
+    color: #858484;
+}
+.btn-detail{
+    width: 100%;
+    height: 45px;
+    font-size: 20px;
+    opacity: 1;
+    color: white;
+}.btn-detail:hover{
+    color: white;
+    opacity: 0.8;
+}
+.w50{
+    width: 49%;
+    display: inline-block;
+}
+.content-detail .remind-social{
+    margin-top: 20px;
+}
+.social .icon-social {
+    margin-left: 20px;
+}
+
+.w100p {
+    width: 100%;
+}
+.mb3 {
+    margin-bottom: 1.8rem;
+}
+.bg-grey-400 {
+    background-color: #E8E8E8;
+}
+.grid-container * {
+    box-sizing: inherit;
+}
+.h1_2 {
+    height: 0.3rem;
+}
+.bg-ksr-green-700 {
+    background-color: #b64a9b;
+}
+.footer-detail .content .title{
+    margin-top: 50px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px;
+}
+.content-detail .input-donate{
+    width: 21%;
+    display: inline-block;
+    margin-right: 15px;
+}
+.content-detail .input-donate-a{
+    width: 100%;
+    display: inline-block;
+    margin-top: 15px;
+}
+.content-detail .information-donate{
+    margin-bottom: 20px;
+}
+.form-control:focus{
+    border-color: #b64a9c;
+}
+.information-donate .input-donate input:focus{
+    color: white;
+    background: #b64a9c;
+}
+.information-donate .input-donate input{
+    color: #686767;
+    font-weight: 500;
+}
+.information-donate .title{
+    font-size: 18px;
+}

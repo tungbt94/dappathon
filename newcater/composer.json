@@ -1,0 +1,13 @@
+{
+  "require": {
+    "phalcon/incubator": "^3.2",
+    "vlucas/phpdotenv": "^2.4",
+    "beberlei/assert": "^2.7",
+    "nategood/httpful": "*",
+    "phpclasses/stegger": ">=0.6"
+  },
+
+  "require-dev": {
+    "phalcon/ide-stubs": "^3.2"
+  }
+}
